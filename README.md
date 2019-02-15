@@ -1,4 +1,4 @@
-# clc
+# Vue Calculator
 
 ## Project setup
 ```
